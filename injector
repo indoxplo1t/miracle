@@ -1,3 +1,4 @@
 return {
-    "zettayaicha"
+    ["mederatorcaj"] = true,
+    ["indoxplo1t"] = true
 }
