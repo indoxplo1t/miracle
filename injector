@@ -1,4 +1,4 @@
 return {
-    ["mederatorcaj"] = true,
-    ["indoxplo1t"] = true
+    "moderatorcaj"
+    "indoxplo1t"
 }
